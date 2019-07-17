@@ -108,7 +108,7 @@ Vínculos comunitários |  *DN*   | *idade* | *renda* | *endereco* | *relação*
 **PcD**               |    o    |    x    |    x    |      o     |     x     |     o      |          x
 
  ###### `Padronização`
- Cadastro de *família extensa* e *vínculos comunitários* separados, campo de *nome da empresa que filhos trabalham* substituído por **ocupação**, **atividades comunitárias** para ambos.  **Renda** como campo de seleção e campo aberto para *família extensa* e não para *vínculos comunitários*.
+ Cadastro dos itens *família extensa* e *vínculos comunitários* separados; campo de *nome da empresa que filhos trabalham* substituir por **ocupação**, campo **atividades comunitárias** para ambos os itens.  **Renda** como campo de seleção e campo aberto para *família extensa* e nenhum campo renda para *vínculos comunitários*.
 
 ---
 
@@ -123,14 +123,14 @@ Vínculos comunitários |  *DN*   | *idade* | *renda* | *endereco* | *relação*
   - Item: 14 (14.1 Esporte, 14.2 Atividade cultural e 14.3 Costuma sair de casa)
   - Campos divergentes: apesenta seleção de `sim e não` e campos separados  **qual?** e **onde**. Não apresenta opção de preenchimento para *lazer*, e apresenta campo de seleção `sim e não` para **necessidade de algum tipo de apoio**.
 
-Atividades    | *onde* | *qual* | *lazer* | *se não* | *necessidade de algum tipo de apoio*
-------------- | ------ | ------ | ------- | -------- | -----------------------------------
-**Crianca**   |    x   |    x   |    o    |    o     |                x
-**Idoso**     |    o   |    o   |    x    |    x     |                x
-**PcD**       |    o   |    o   |    x    |    x     |                o
+Atividades    | *onde* | *qual* | *item lazer* | *se não* | *necessidade de algum tipo de apoio* | *costuma sair de casa*
+------------- | ------ | ------ | ------- | -------- | ----------------------------------------- | ---------------------
+**Crianca**   |    x   |    x   |    o    |    o     |                x                          | x
+**Idoso**     |    o   |    o   |    x    |    x     |                x                          | o
+**PcD**       |    o   |    o   |    x    |    x     |                o                          | o
 
 ###### `Padronização`
-Nos três formulários, designar campos abertos separados para **qual**, **periodicidade**, **interesse e dificuldade de inserção**, **necessidade de apoio** e **lazer** em todos.
+Nos três formulários, Incluir itens **lazer** e **costuma sair de casa** em todos. Designar campos abertos separados para **qual**, **periodicidade**, **interesse e dificuldade de inserção** e **necessidade de apoio**.
 
 ---
 
@@ -156,4 +156,4 @@ Planos de ação   |     *prazo*     | *equipamento* | *assinatura* | *registros
 **PcD**          | data início/fim |       o       |       o      |           o
 
 ###### `Padronização`
-Em todos os **planos de ação**, incluir campos de prazo **inicial** e **final** como data, incluir **equipamento**, assinatura como **nome**, **registro** e **conselho**.
+Em todos os **planos de ação**, incluir campos de data **inicial** e **final**, incluir **equipamento**; assinatura se dará com campos separados abertos para **nome**, **registro** e **conselho**.
