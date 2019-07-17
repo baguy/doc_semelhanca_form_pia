@@ -26,7 +26,7 @@
  
  
  ###### `Padronização`
-  Nos três formulários, incluir o campo aberto de **renda pessoal** e **renda familiar**, incluir em *grupo familiar* e *família extensa* campo de seleção e campo aberto de renda.
+  Nos três formulários, incluir o campo aberto de **renda pessoal** e campo de seleção de **renda familiar**, incluir em *grupo familiar* e *família extensa* campo de seleção e campo aberto de renda.
   
 ---
 
