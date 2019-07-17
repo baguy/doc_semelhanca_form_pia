@@ -16,13 +16,19 @@
 - _Pessoa com deficiência (PcD)_
   - Item: x
   - Campos divergentes: igual **Idoso**.
+  
 
  Renda      | *pessoal* | *familiar* | *grupo familar* | *família extensa*
 ----------- | --------- | ---------- | --------------- | ----------------
 **Crianca** |     o     |      o     |        o        |         x
 **Idoso**   |     x     |      o     |        o        |         o
  **PcD**    |     x     |      o     |        o        |         o
-
+ 
+ 
+ `Padronização`
+  Nos três formulários, incluir o campo aberto de **renda pessoal** e **renda familiar**, incluir em *grupo familiar* e *família extensa* campo de seleção e campo aberto de renda.
+  
+---
 
 ##### Responsáveis (ou pais ou curador)
 - _Criança_
@@ -38,12 +44,19 @@
 - _Pessoa com deficiência (PcD)_
   - Item: 2
   - Campos divergentes: igual **Idoso**.
+ 
 
  Responsáveis | *profissão* | *filiação*
  ------------ | ----------- | ----------
 **Crianca**   |      x      |     o
 **Idoso**     |      o      |     x
  **PcD**      |      o      |     x
+ 
+
+`Padronização`
+  Nos três formulários, incluir **endereço**, **telefone**, **vínculo** e **profissão/ocupação** para responsáveis.
+  
+  ---
 
 ##### Grupo Familiar
 - _Criança_
@@ -62,6 +75,9 @@ Grupo familiar|  *DN*   | *idade* | *renda*
 **Idoso**     |    x    |    o    | aberto
 **PcD**       |    x    |    o    | aberto
 
+
+`Padronização`
+Em todos os três formulários, incluir ambos campos de **renda** como seleção e campo aberto em *grupo familiar* e substituir os campos de idade para **data de nascimento** apenas.
 
 ##### Família extensa e vínculos comunitários
 - _Criança_
