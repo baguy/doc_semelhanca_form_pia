@@ -25,7 +25,7 @@
  **PcD**    |     x     |      o     |        o        |         o
  
  
- `Padronização`
+ ###### `Padronização`
   Nos três formulários, incluir o campo aberto de **renda pessoal** e **renda familiar**, incluir em *grupo familiar* e *família extensa* campo de seleção e campo aberto de renda.
   
 ---
@@ -53,7 +53,7 @@
  **PcD**      |      o      |     x
  
 
-`Padronização`
+###### `Padronização`
   Nos três formulários, incluir **endereço**, **telefone**, **vínculo** e **profissão/ocupação** para responsáveis.
   
   ---
@@ -76,8 +76,10 @@ Grupo familiar|  *DN*   | *idade* | *renda*
 **PcD**       |    x    |    o    | aberto
 
 
-`Padronização`
+###### `Padronização`
 Em todos os três formulários, incluir ambos campos de **renda** como seleção e campo aberto em *grupo familiar* e substituir os campos de idade para **data de nascimento** apenas.
+
+---
 
 ##### Família extensa e vínculos comunitários
 - _Criança_
@@ -106,6 +108,8 @@ Vínculos comunitários |  *DN*   | *idade* | *renda* | *endereco* | *relação*
 **PcD**               |    o    |    x    |    x    |      o     |     x     |     o      |          x
 
 
+---
+
 ##### Atividades (esporte, cultura e lazer)
 - _Criança_
   - Item: 4 (4.1 Esporte, 4.2 Cultura e 4.3 Lazer)
@@ -123,6 +127,7 @@ Atividades    | *onde* | *qual* | *lazer* | *se não* | *necessidade de algum ti
 **Idoso**     |    o   |    o   |    x    |    x     |                x
 **PcD**       |    o   |    o   |    x    |    x     |                o
 
+---
 
 ##### Plano de ação
 - _Criança_
