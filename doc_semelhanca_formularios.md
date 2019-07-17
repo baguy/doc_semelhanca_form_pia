@@ -77,7 +77,7 @@ Grupo familiar|  *DN*   | *idade* | *renda*
 
 
 ###### `Padronização`
-Em todos os três formulários, incluir ambos campos de **renda** como seleção e campo aberto em *grupo familiar* e substituir os campos de idade para **data de nascimento** apenas.
+Em todos os três formulários, incluir ambos campos de **renda** como seleção e campo aberto no item *grupo familiar* e substituir todos os campos de idade para **data de nascimento** apenas.
 
 ---
 
