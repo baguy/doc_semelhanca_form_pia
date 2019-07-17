@@ -107,6 +107,8 @@ Vínculos comunitários |  *DN*   | *idade* | *renda* | *endereco* | *relação*
 **Idoso**             |    o    |    x    |    x    |      o     |     x     |     o      |          x
 **PcD**               |    o    |    x    |    x    |      o     |     x     |     o      |          x
 
+ ###### `Padronização`
+ Cadastro de *família extensa* e *vínculos comunitários* separados, campo de *nome da empresa que filhos trabalham* substituído por **ocupação**, **atividades comunitárias** para ambos.  **Renda** como campo de seleção e campo aberto para *família extensa* e não para *vínculos comunitários*.
 
 ---
 
@@ -126,6 +128,9 @@ Atividades    | *onde* | *qual* | *lazer* | *se não* | *necessidade de algum ti
 **Crianca**   |    x   |    x   |    o    |    o     |                x
 **Idoso**     |    o   |    o   |    x    |    x     |                x
 **PcD**       |    o   |    o   |    x    |    x     |                o
+
+###### `Padronização`
+Nos três formulários, designar campos abertos separados para **qual**, **periodicidade**, **interesse e dificuldade de inserção**, **necessidade de apoio** e **lazer** em todos.
 
 ---
 
@@ -149,3 +154,6 @@ Planos de ação   |     *prazo*     | *equipamento* | *assinatura* | *registros
 **Criança 10**   | data início/fim |       x       |       o      |           x
 **Idoso**        | data início/fim |       o       |       o      |           o
 **PcD**          | data início/fim |       o       |       o      |           o
+
+###### `Padronização`
+Em todos os **planos de ação**, incluir campos de prazo **inicial** e **final** como data, incluir **equipamento**, assinatura como **nome**, **registro** e **conselho**.
