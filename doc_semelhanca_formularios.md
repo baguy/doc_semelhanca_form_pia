@@ -54,7 +54,7 @@
  
 
 ###### `Padronização`
-  Nos três formulários, incluir **endereço**, **telefone**, **vínculo** e **profissão/ocupação** para responsáveis.
+  Nos três formulários, incluir **endereço**, **telefone**, **vínculo** e **profissão/ocupação** para responsáveis. Também incluir campo separado de endereço atual para formulário de Criança e Adolecente.
   
   ---
 
